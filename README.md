@@ -3,7 +3,7 @@ Welcome to the Machine Learning Projects repository! This collection showcases a
 
 Overview:
 
-Machine learning is a rapidly evolvin field that empowers computers to learn from data and make informed decisions or predictions without explicit programming. This repository houses a collection of machine learning projects, including classification, regression, clustering, natural language processing (NLP), computer vision, and more.
+Machine learning is a rapidly evolving field that empowers computers to learn from data and make informed decisions or predictions without explicit programming. This repository houses a collection of machine learning projects, including classification, regression, clustering, natural language processing (NLP), computer vision, and more.
 
 Key Features:
 
